@@ -1,0 +1,24 @@
+body {
+	background-color: slategrey;
+}
+
+h1 {
+	color: coral;
+}
+
+h2 {
+	color: skyblue;
+}
+
+ol {
+	color: navajowhite;
+}
+
+ul {
+	color: navajowhite;
+}
+
+.animal{
+	font-family: 'Erica One';
+	font-size: 36px;
+}
